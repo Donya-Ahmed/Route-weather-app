@@ -1,0 +1,29 @@
+.deg{
+  font-size: 5rem;
+  font-weight: bold;
+  margin-right: 1rem;
+}
+.title{
+  font-size: 14px;
+}
+.nav-link{
+  color: white;
+}
+.round{
+  padding: 7px 25px !important
+
+}
+.nav-link:hover{
+  color: white;
+  border-radius: 30px;
+  border: 1px solid teal;
+}
+.bg-w{
+  background-image: url('../images/banner.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+::placeholder{
+  color:white !important;
+}
